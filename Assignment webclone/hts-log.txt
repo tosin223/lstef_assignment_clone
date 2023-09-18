@@ -1,0 +1,65 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Sep 2023 09:26:36 at https://lsetf.ng/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lsetf.ng/ -O1 "C:\My Web Sites\Assignment webclone" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:26:38	Warning: 	Note: due to https://lsetf.ng remote robots.txt rules, links beginning with these path will be forbidden: /includes/, /misc/, /modules/, /profiles/, /scripts/, /themes/, /CHANGELOG.txt, /cron.php, /INSTALL.mysql.txt, /INSTALL.pgsql.txt, /INSTALL.sqlite.txt, /install.php, /INSTALL.txt, /LICENSE.txt, /MAINTAINERS.txt, /update.php, /UPGRADE.txt, /xmlrpc.php, /admin/, /comment/reply/, /filter/tips/, /node/add/, /search/, /user/register/, /user/password/, /user/login/, /user/logout/, /?q=admin/, /?q=comment/reply/, /?q=filter/tips/, /?q=node/add/, /?q=search/, /?q=user/password/, /?q=user/register/, /?q=user/login/, /?q=user/logout/ (see in the options to disable this)
+09:28:15	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): fast.fonts.net/t/1.css?apiType=css&projectid=c774e746-6bf6-454a-b9d4-ff448a288b90
+09:28:15	Warning: 	Retry after error -4 (Connect Error) at link code.jquery.com/jquery-1.10.2.min.js (from https://lsetf.ng/)
+09:28:16	Warning: 	Retry after error -4 (No data (connection closed)) at link https://lsetf.ng/sites/all/modules/popup/popup.js?rz0jao (from https://lsetf.ng/)
+09:31:58	Error: 	"Not Found" (404) at link https://lsetf.ng/sites/all/themes/ysl/images/bg_header.jpg (from https://lsetf.ng/sites/all/themes/ysl/css/ihover.css)
+09:42:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 44974830 got 42828204): https://lsetf.ng/file/1089/download?token=wXEDLpww
+09:53:26	Warning: 	Retry after error -4 (Incorrect length (42828204 Bytes, 44974830 expected)) at link https://lsetf.ng/file/1089/download?token=wXEDLpww (from https://lsetf.ng/downloads?page=1)
+09:53:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://lsetf.ng/file/1089/download?token=wXEDLpww
+09:54:11	Error: 	"Not Found" (404) at link https://lsetf.ng/file/LSETFfirsteduloan.jpeg (from https://lsetf.ng/content/lagos-state-employment-trust-fund-lsetf-launches-volunteer-network-programme-drive-social)
+09:54:12	Error: 	"Not Found" (404) at link https://lsetf.ng/donations.php (from https://lsetf.ng/content/call-partnership)
+09:55:21	Warning: 	File not parsed, looks like binary: https://lsetf.ng/sites/all/libraries/pdf.js/web/images/grab.cur
+09:55:22	Warning: 	File not parsed, looks like binary: https://lsetf.ng/sites/all/libraries/pdf.js/web/images/grabbing.cur
+10:03:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027444 (from https://lsetf.ng/latest-news?page=91)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=95 (from https://lsetf.ng/latest-news?page=91)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=96 (from https://lsetf.ng/latest-news?page=92)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027445 (from https://lsetf.ng/latest-news?page=116)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=112 (from https://lsetf.ng/latest-news?page=116)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027446 (from https://lsetf.ng/latest-news?page=113)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=109 (from https://lsetf.ng/latest-news?page=113)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=110 (from https://lsetf.ng/latest-news?page=113)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=111 (from https://lsetf.ng/latest-news?page=113)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027447 (from https://lsetf.ng/latest-news?page=114)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027449 (from https://lsetf.ng/latest-news?page=93)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=97 (from https://lsetf.ng/latest-news?page=93)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027450 (from https://lsetf.ng/latest-news?page=94)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=98 (from https://lsetf.ng/latest-news?page=94)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027444 (from https://lsetf.ng/latest-news?page=91)
+10:03:45	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=95 (from https://lsetf.ng/latest-news?page=91)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=96 (from https://lsetf.ng/latest-news?page=92)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027445 (from https://lsetf.ng/latest-news?page=116)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=112 (from https://lsetf.ng/latest-news?page=116)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027446 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=109 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=110 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=111 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027447 (from https://lsetf.ng/latest-news?page=114)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027449 (from https://lsetf.ng/latest-news?page=93)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=97 (from https://lsetf.ng/latest-news?page=93)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027450 (from https://lsetf.ng/latest-news?page=94)
+10:03:46	Warning: 	Retry after error -4 (Connect Error) at link https://lsetf.ng/latest-news?page=98 (from https://lsetf.ng/latest-news?page=94)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027444 (from https://lsetf.ng/latest-news?page=91)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=95 (from https://lsetf.ng/latest-news?page=91)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=96 (from https://lsetf.ng/latest-news?page=92)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027445 (from https://lsetf.ng/latest-news?page=116)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=112 (from https://lsetf.ng/latest-news?page=116)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027446 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=109 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=110 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=111 (from https://lsetf.ng/latest-news?page=113)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027447 (from https://lsetf.ng/latest-news?page=114)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027449 (from https://lsetf.ng/latest-news?page=93)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=97 (from https://lsetf.ng/latest-news?page=93)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/sites/all/modules/lightbox2/js/lightbox.js?1695027450 (from https://lsetf.ng/latest-news?page=94)
+10:03:46	Error: 	"Connect Error" (-4) after 2 retries at link https://lsetf.ng/latest-news?page=98 (from https://lsetf.ng/latest-news?page=94)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 minutes 10 seconds : 1974 links scanned, 1925 files written (635411085 bytes overall) [660097995 bytes received at 296008 bytes/sec], 26051300 bytes transferred using HTTP compression in 1203 files, ratio 26%, 10.6 requests per connection
+(17 errors, 37 warnings, 0 messages)
